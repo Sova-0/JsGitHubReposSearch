@@ -21,7 +21,7 @@
     left: -10px;
     top: -10px;
     cursor: pointer;
-    background: url('/img/red-x-line-icon.svg');
+    background: url('img/red-x-line-icon.svg');
 }
 
 ul {
